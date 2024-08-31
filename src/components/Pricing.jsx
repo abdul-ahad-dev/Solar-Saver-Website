@@ -8,9 +8,9 @@ function Pricing() {
                     <h1 className="text-4xl mb-8 text-center font-medium">
                         TRANSPARENT PRICING
                     </h1>
-                    <div className="w-full flex gap-4 py-10">
+                    <div className="w-full flex justify-center flex-wrap gap-6 py-10">
 
-                        <div className="lg:w-1/3 sm:w-1/2 w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
+                        <div className="lg:w-1/3 md:w-1/2 sm:w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
                             <div className="bg-orange-600 w-20 h-20 mb-5 flex items-center justify-center rounded-full">
                                 <img
                                     className="w-10 h-10"
@@ -33,7 +33,7 @@ function Pricing() {
                             </button>
                         </div>
 
-                        <div className="lg:w-1/3 sm:w-1/2 w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
+                        <div className="lg:w-1/3 md:w-1/2 sm:w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
                             <div className="bg-orange-600 w-20 h-20 mb-5 flex items-center justify-center rounded-full">
                                 <img
                                     className="w-10 h-10"
@@ -55,7 +55,7 @@ function Pricing() {
                             </button>
                         </div>
 
-                        <div className="lg:w-1/3 sm:w-1/2 w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
+                        <div className="lg:w-1/3 md:w-1/2 sm:w-full px-6 py-8 bg-[#1a1714] rounded-2xl">
                             <div className="bg-orange-600 w-20 h-20 mb-5 flex items-center justify-center rounded-full">
                                 <img
                                     className="w-10 h-10"
